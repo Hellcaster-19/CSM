@@ -58,8 +58,6 @@ A Python-based desktop application built using **Tkinter** for managing car inve
 
 > Make sure you have **Python 3** installed.
 
----
-
 ##  Future Improvements
 
 - Add persistent storage (e.g., SQLite, JSON)  
@@ -68,12 +66,7 @@ A Python-based desktop application built using **Tkinter** for managing car inve
 - Export financial reports  
 - Add user authentication
 
----
-
 ## 📄 License
 
 MIT License – Free to use, modify, and distribute.
 
----
-
-Let me know if you'd like a custom `requirements.txt`, badge icons, or a visual GIF of the app in action!
