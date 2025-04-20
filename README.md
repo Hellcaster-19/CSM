@@ -2,7 +2,7 @@
 
 A Python-based desktop application built using **Tkinter** for managing car inventories in a virtual showroom. This GUI app allows users to **view, add, filter, and sell cars**, while automatically tracking **sales and commission**.
 
----
+
 
 ##  Features
 
@@ -13,7 +13,7 @@ A Python-based desktop application built using **Tkinter** for managing car inve
 -  **Financial Overview** – Track total sales, commission earned, and net profit.  
 -  **User-Friendly GUI** – Built with Tkinter featuring buttons, dialogs, and scrolled views.
 
----
+
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ A Python-based desktop application built using **Tkinter** for managing car inve
 - **Tkinter** (Standard GUI library)
 - **OOP Principles** (Encapsulated `Car` and `Showroom` classes)
 
----
+
 
 ## Use Cases
 
@@ -29,7 +29,7 @@ A Python-based desktop application built using **Tkinter** for managing car inve
 - Learning resource for students studying **GUI development** and **object-oriented design**  
 - Demonstration of basic **inventory management system**
 
----
+
 
 ## How It Works
 
@@ -41,7 +41,7 @@ A Python-based desktop application built using **Tkinter** for managing car inve
   - `₹5L – ₹15L` → 7%  
   - `> ₹15L` → 10%
 
----
+
 
 ##  Getting Started
 
